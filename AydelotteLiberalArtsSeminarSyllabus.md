@@ -1,14 +1,11 @@
 ## The Aydelotte Foundation Seminar in the Liberal Arts
 ### Swarthmore College
+### Professor Burke, Professor Buurma
 ### Spring 2018
 ### M 1:15-3:50
 ### Office hours: W 1-3, Parrish W201
 
-The Aydelotte Foundation is an internal Swarthmore research institute dedicated to investigating the meanings and uses of the concept of “liberal arts” and the practices that institutions and individuals follow in the name of that concept.
-
-Starting in the spring of 2018, the Foundation will be offering an annual course that examines the history and structure of liberal education. We will use Swarthmore as an example but are not limited to it in the scope of the class. In the second part of the course, we will study the specific operations of key components of liberal education such as admissions, budgeting,
-
-This first iteration of the class focuses around oppositions between “vocation” and “liberal arts” education.
+The Aydelotte Foundation is an internal Swarthmore research institute dedicated to investigating the meanings and uses of the concept of “liberal arts” and the practices that institutions and individuals follow in the name of that concept. Starting in the spring of 2018, the Foundation will be offering an annual course that examines the history and structure of liberal education. We will regularly use Swarthmore as an example but are not limited to it in the scope of the class. In the second part of the course, we will study the specific operations of key components of liberal education, drawing on the expertise of faculty and staff at Swarthmore. This first iteration of the class focuses around perceived oppositions and practical continuities between “vocation” and “liberal arts” education.
 
 ## Introduction
 
@@ -50,13 +47,6 @@ Bobby additions:
 
 [The US Morrill Act & the relationship between public & private institutions in different regions of the US](https://www.bostonfed.org/publications/regional-review/2001/quarter-4/the-shaping-of-higher-education-in-the-united-states-and-new-england.aspx)
 
-Response paper: Sam
-
-Reading summary: Bobby
-
-Remaking the syllabus: everybody
-
-Microflection: everybody
 
 ### Week 3: February 5, 2018
 ### From There to Here 2: Liberal Arts and Vocation Before 1950
@@ -85,82 +75,68 @@ Optional: Helen Lefkowitz Horowitz, *Alma Mater: Design and Experience in the Wo
 
 Optional: Isabel Hofmeyr, “Portable Landscapes: Thomas Mofolo and John Bunyan” in *Land Culture and Identity in Settler Societies*
 
-Bobby additions:
-
-Margaret A. Nash and Jennifer A. R. Silverman, []“An Indelible Mark": Gay Purges in Higher Education in the 1940s](https://drive.google.com/file/d/1V518GrqALg92s16xns9fAfjKi7_AePkB/view?usp=sharing)
-
-Patrick Carr, [Hollowing Out the Middle: The Rural Brain Drain and What It Means for America]((https://www.amazon.com/Hollowing-Out-Middle-Rural-America/dp/0807006149))
-
-Response paper: Laura
-<br>
-Reading summary: Keton, Christian
-<br>
-Microflection: everybody
-
 ### Week 4: February 12, 2018
 ### The Current State of Play I
 
 Martha Nussbaum, “Liberal Education and Global Community”, *Liberal Education and Global Community*
+
 Andrew Delbanco, “What is College For?”
+
 Raymond Shaw, []“Assessing the Intangible in Our Students”, Chronicle of Higher Education, July
 27 2017](https://www.chronicle.com/article/Assessing-the-Intangible-in/240744)
+
 Bill Coplin, 10 Things [Employers] Want You To Learn In College
+
 Katherine Brooks, *You Majored in What?*
+
 George Anders, *You Can Do Anything*, “The Explorers”
+
 Crawford, “Shop Class as Soul Craft”, New Atlantis, 2006
+
 Fred Moton and Stefano Harney, [Chapter 2: The University and the Undercommons in The
 Undercommons: Fugitive Planning and Black Study](http://www.minorcompositions.info/wp-content/uploads/2013/04/undercommons-web.pdf)
-
-Response paper: Christian
-Reading summary: Laura
-Microflection: everybody
 
 ### Week 5: February 19, 2018
 ### The Current State of Play II
 
 Tressie Mcmillan Cottom, Lower Ed; read all, focus on ch 1-3, 6 + epilogue
-Steve Jobs, “Technology and the Liberal Arts”
-Henry Giroux, “Defending Higher Education in an Age of Neoliberal Savagery”,
-William Deresiewicz, “The Disadvantages of an Elite Education”, American Scholar, 2008,
-Abraham Flexner, “The Usefulness of Uselessness”, Harper’s, June-November 1939,
-Heather Douglas, “Pure Science and the Problem of Progress”, Part A
-Watch this week: Tell Them We Are Rising: The Story of Black Colleges and Universities
- Monday, February 19, 09:00 pm on WHYY + streaming on WHYY
-Liberal arts taxonomy
-Keton additions: In concert with the Deresiewicz, two YDN pieces by Marina Keegan (Yale ’12):
-https://yaledailynews.com/blog/2011/09/30/even-artichokes-have-doubts/
-https://yaledailynews.com/blog/2012/05/27/keegan-the-opposite-of-loneliness/
-Bobby - Also on “selling out”, from Princeton:
-https://mysideofparadiseblog.wordpress.com/2017/11/27/selling-out-a-princeton-tradition/
 
-Response paper: Keton, Bobby
-Reading summary:
-Microflection: everybody
+Steve Jobs, “Technology and the Liberal Arts”
+
+Henry Giroux, “Defending Higher Education in an Age of Neoliberal Savagery”,
+
+William Deresiewicz, “The Disadvantages of an Elite Education”, American Scholar, 2008,
+
+Abraham Flexner, “The Usefulness of Uselessness”, Harper’s, June-November 1939,
+
+Heather Douglas, “Pure Science and the Problem of Progress”, Part A
+
+Watch this week: Tell Them We Are Rising: The Story of Black Colleges and Universities Monday, February 19, 09:00 pm on WHYY + streaming on WHYY
+
+Lavelle Porter, [The Story of Historically Black Colleges and Universities](https://www.aaihs.org/the-story-of-historically-black-colleges-and-universities/), at *Black Perspectives*, the AAIHS blog
+
+Liberal arts taxonomy
 
 ### Week 6: February 26, 2018
 ### Lived Situations
 
-Curated scenes from films & TV:
-Breaking Away
-The Magicians: Welcome to Brakebills
-The Magicians: Welcome Wagon
-The Paper Chase
-Liberal Arts
-School Daze
+Curated scenes from films & TV: Breaking Away, The Magicians: Welcome to Brakebills, The Magicians: Welcome Wagon, The Paper Chase, Liberal Arts, School Daze
 
 Susan Blum, *I Love Learning, I Hate School*, “The Myriad and Muddled Goals of College”
-Walter Kirn, []“Lost in the Meritocracy”, Atlantic Monthly, Jan 200]https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/ )
-Azar Nafisi, *Reading Lolita in Tehran*, pp. 1-44
-Richard Rodriguez, *The Hunger of Memory*, “The Achievement of Desire”
-Chimamanda Ngozi Adichie, “The Danger of a Single Story”
-Stanley Anderson, *Becoming Whole and Holy Persons*, pp. 101-113
-Aydelotte Tumblr
-Christian addition: [A college degree is worth less if you are raised poor](https://www.brookings.edu/blog/social-mobility-memos/2016/02/19/a-college-degree-is-worth-less-if-you-are-raised-poor/)
 
-Response paper:Sam, Christian
-Reading summary: Keton
-Building the syllabus: everybody
-Microflection: everybody
+Walter Kirn, []“Lost in the Meritocracy”, Atlantic Monthly, Jan 200]https://www.theatlantic.com/magazine/archive/2005/01/lost-in-the-meritocracy/303672/ )
+
+Azar Nafisi, *Reading Lolita in Tehran*, pp. 1-44
+
+Richard Rodriguez, *The Hunger of Memory*, “The Achievement of Desire”
+
+Chimamanda Ngozi Adichie, “The Danger of a Single Story”
+
+Stanley Anderson, *Becoming Whole and Holy Persons*, pp. 101-113
+
+Aydelotte Tumblr
+
+Christian addition: [A college degree is worth less if you are raised poor](https://www.brookings.edu/blog/social-mobility-memos/2016/02/19/a-college-degree-is-worth-less-if-you-are-raised-poor/)
 
 ## Part II: The User’s Guide: The Institutionalization of Liberal Education
 
@@ -170,17 +146,20 @@ Microflection: everybody
 Visitors: Jim Bock (Vice President of Admissions, Swarthmore), Emily Almas (Associate Dean of Admissions and Director of Recruitment, Swarthmore)
 
 Steinberg, *The Gatekeepers*, Introduction, pp. 1-54
-Jason England, “Admissions Confidential”, Chronicle of Higher Education, Dec 3 2017
-Interview with Lani Guinier about *The Tyranny of the Meritocracy*
-Massey and Charles, *The Source of the River*, Chapter Eight
-Scott Carlson, “Should Everyone Go to College?”, Chronicle of Higher Education, May 2016,
-Sarah Brown, “In a Region With Few College Degrees, People Pin Their Hopes on Trump”, Chronicle of Higher Education, Jan 12 2018
-Helen Vendler, “Writers and Artists at Harvard”, November 2012
-College Confidential
 
-Response paper: Keton, Bobby
-Reading summary: Laura, Christian, Bobby
-Microflection: everybody
+Jason England, “Admissions Confidential”, Chronicle of Higher Education, Dec 3 2017
+
+Interview with Lani Guinier about *The Tyranny of the Meritocracy*
+
+Massey and Charles, *The Source of the River*, Chapter Eight
+
+Scott Carlson, “Should Everyone Go to College?”, Chronicle of Higher Education, May 2016,
+
+Sarah Brown, “In a Region With Few College Degrees, People Pin Their Hopes on Trump”, Chronicle of Higher Education, Jan 12 2018
+
+Helen Vendler, “Writers and Artists at Harvard”, November 2012
+
+College Confidential
 
 ### Week 8: spring break
 
@@ -190,75 +169,82 @@ Microflection: everybody
 Visitors: Greg Brown (Vice President for Finance and Administration, Swarthmore), Varo Duffin (Director of Financial Aid, Swarthmore)
 
 Budget essentials slides
-Suzanne Mettler, Degrees of Inequality, pp. 1-50
-Massy, Reengineering the University, pp. 164-215
-Sara Goldrick-Rab, Paying the Price, pp. 39-82
-Dylan Matthews, “Everything You Need to Know About College Costs”
-Swarthmore tuition, room, and board fees
-Swarthmore cost/student 2016-2017
-Swarthmore financial aid statistics
-Swarthmore Pell Grant recipients
 
-Response paper:
-Reading summary: Bobby, Sam
-Building the syllabus: everybody
-Microflection: everybody
+Suzanne Mettler, Degrees of Inequality, pp. 1-50
+
+Massy, Reengineering the University, pp. 164-215
+
+Sara Goldrick-Rab, Paying the Price, pp. 39-82
+
+Dylan Matthews, “Everything You Need to Know About College Costs”
+
+Swarthmore tuition, room, and board fees
+
+Swarthmore cost/student 2016-2017
+
+Swarthmore financial aid statistics
+
+Swarthmore Pell Grant recipients
 
 ### Week 10: March 26, 2018
 ### Curricular Governance and Design I
 
 Higher Education for American Democracy, 1947, “The Need for General Education” and “Objectives for General Education”, pp. 47-58
+
 Philo Hutcheson, “The Truman Commission’s Vision of the Future”, Thought and Action, Fall 2007.
+
 Nicholas Lemann, “The Case For a New Kind of Core”, Chronicle of Higher Education,
 November 27 2016
-Charles Eliot, “Liberty in Education”
-Gerald Graff, Clueless in Academe, pp. 62-82
-Scott Carlson, “A New Liberal Art: How Systems Thinking Prepares Students For a Complex
-World”, Chronicle of Higher Education, Sept. 24, 2017
 
-Response paper: Laura, Sam, Christian
-Reading summary: Keton
-Building the syllabus: everybody
-Microflection: everybody
+Charles Eliot, “Liberty in Education”
+
+Gerald Graff, Clueless in Academe, pp. 62-82
+
+Scott Carlson, “A New Liberal Art: How Systems Thinking Prepares Students For a Complex World”, Chronicle of Higher Education, Sept. 24, 2017
 
 ### Week 11: April 2, 2018
 ### Curricular Governance and Design II
 
+Visitor: Connie Hungerford, Chair of Art and Art History, Former Provost, Former Acting President, Swarthmore College
+
 LD Burnett, [“Choices and Changes in Western Culture”, US Intellectual History Blog, September
 2017](https://s-usih.org/2017/09/choices-and-changes-in-western-culture/)
+
 Andrew Hartman, *A War For the Soul of America*, “The Battle for the American Mind” (Ch. 9)
+
 Mark Edmundson, “Liberal Arts as Lite Entertainment”, Harper’s
+
 David Anthony, “Harry Potter and the Chair’s Dilemma”, Chronicle of Higher Education, October
 29 2017
-Charles Henry, *Black Studies and the Democratization of Higher Education in America*, Chapter Six
-Cathy Davidson, “A Newer Education for Our Era”
-Owens-Murphy et al, “So We Went to Prison”, Chronicle of Higher Education
-Manya Whitaker, “The 21st Century Academic”, Chronicle of Higher Education, Jan 2 2018,
-Katherine Mangan, “Easing the Pain of Program Closings”, Chronicle of Higher Education,
-November 12 2017
 
-Response paper: Keton, Bobby
-Reading summary: Christian, Sam, Laura
-Microflection: everybody
+Charles Henry, *Black Studies and the Democratization of Higher Education in America*, Chapter Six
+
+Cathy Davidson, “A Newer Education for Our Era”
+
+Owens-Murphy et al, “So We Went to Prison”, Chronicle of Higher Education
+
+Manya Whitaker, “The 21st Century Academic”, Chronicle of Higher Education, Jan 2 2018,
+
+Katherine Mangan, “Easing the Pain of Program Closings”, Chronicle of Higher Education, November 12 2017
 
 ### Week 12: April 9, 2018
 ### “Outside the Classroom”: Residential Life and Extracurriculars
 
 Douglass Chambliss and Christopher Takacs, *How College Works*, Chapter Five (“Belonging”)
+
 Beth McMurtrie, “Do Fraternities Have a Place on the Modern Campus?”, Chronicle of Higher Education, August 3, 2015
+
 Sarah Brown, “At Yale, Painful Rifts Emerge”, Chronicle of Higher Education, November 9, 2015.
+
 Chronicle of Higher Education Focus: Mental-Health Issues in Students
+
 Blimling, *Student Learning in College Residence Halls*, Chapter 4, “How to Create Learning Environments in College Residence Halls”.
+
 Jessup-Angier, “Examining How Residential College Environments Inspire the Life of the Mind”, Review of Higher Education, 35:3, 2012.
+
 Shushok, Scales, Sriram & Kidd, (2011), “A Tale of Three Campuses: Unearthing theories of residential life that shape the student learning experience”
 
 Contribution from Sam: [the New Yorker on co-living start ups](https://www.newyorker.com/magazine/2016/05/16/the-rise-of-the-co-living-startup)
-
-More history on ResLife maybe. Also a week on diversity in colleges. When did schools start taking diversity as an institutional goal? -Keton
-
-Response paper: Christian, Laura
-Reading summary: Sam
-Microflection: everybody
 
 ## Part III: The Honors Program: An Investigation
 
@@ -266,15 +252,20 @@ Microflection: everybody
 ### Honors Program Investigation Overview
 
 Reading:
+
 “Honors Courses in American Colleges and Universities” (PDF in Drive)
+
 *Breaking the Academic Lock Step* (PDF in Drive)
+
 *Critique of a College*, 1967 (PDF in Drive)
+
 Brooks, Reading for Honors at Swarthmore (PDF in Drive)
+
 Becker, *Academic Progression* (PDF in Drive)
+
 The 2017-2018 Swarthmore College Honors Handbook
 
-Assignments:
-See the Redesigning Honors project page
+Assignments: see the Redesigning Honors project page
 
 ### Week 14: April 23, 2018
 ### Research Workshop I
@@ -285,6 +276,7 @@ Discussion of conclusions, further inquiry.
 Dinner and wrap-up
 
 ### Final reports Published: May 15
+
 ---
 
 ## Assignments
@@ -309,9 +301,13 @@ Our final projects will center around the idea of honors work in general and Swa
 
 ### Grading
 25% class participation + microflection
+<br>
 20% short responses
+<br>
 15% reading summaries
+<br>
 15% rebuilding the syllabus
+<br>
 25% final projects
 
 ### Accommodations for disability
@@ -344,8 +340,7 @@ Because this is a seminar, attendance is essential. Missing class (except for ca
 ### Your Own Devices Policy
 Because our class is intensively collaborative, we will expect that you will be focused on the texts and on your classmates. If it is your experience that having a screen in front of you can distract you from the work of being in class, please take measures to prevent such self-distraction.
 
-###
-Syllabus
+### Syllabus
 
 This syllabus is necessarily an incomplete document; we will revise and save versions of it as the class progresses.
 
