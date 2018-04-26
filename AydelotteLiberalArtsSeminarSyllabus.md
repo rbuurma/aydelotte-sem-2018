@@ -15,11 +15,16 @@ This first iteration of the class focuses around oppositions between “vocation
 ### Week 1: January 22, 2018
 
 “Liberal Arts”: Impressionistic Discussion
+
 A List of Arguments About “The Liberal Arts”
+
 Tracking “Liberal Arts” in published writing and on social media
+
 Liberal Arts and “Vocation”: Why we’re focused on that this year
+
 Discuss: Liberal Arts v. Vocationalism. Initial impressions, preconceptions, etc. How does this
 tension play out in your own life? Let’s generate keywords in this discourse: vocation, jobs, careers, practicality, outcomes, earning potential, ineffable, intangible
+
 The User’s Guide: What Do You Want to Know?
 
 ## Part 1: Liberal Arts vs. Vocationalism: The Anatomy of a Tension
@@ -28,44 +33,68 @@ The User’s Guide: What Do You Want to Know?
 ### From There to Here I: Liberal Arts and Vocation Before 1950
 
 Seneca the Younger, “On Liberal and Vocational Studies”
+
 Hugh of St. Victor, “Didascalion”
+
 Newman, The Idea of a University. “Knowledge Its Own End”
+
 Thorstein Veblen, The Higher Learning in America, “Vocational Training” and “Summary”
+
 Laurence Veysey, The Emergence of the American University, Chapter 2 and Chapter 4
+
 James Anderson, The Education of Blacks in the South, 1860-1935, Intro and Chapter 7
 
 Bobby additions:
-US Higher Education Dataset, with analysis of gender, from 1869-70 to 1990-9: https://drive.google.com/file/d/1tBD8t3WKDdIzj9Ns7Cnf5Hinm4gWbL8w/view?usp=sharing
-The US Morrill Act & the relationship between public & private institutions in different regions of the US: https://www.bostonfed.org/publications/regional-review/2001/quarter-4/the-shaping-of-higher-education-in-the-united-states-and-new-england.aspx
+
+[US Higher Education Dataset, with analysis of gender, from 1869-70 to 1990-9](https://drive.google.com/file/d/1tBD8t3WKDdIzj9Ns7Cnf5Hinm4gWbL8w/view?usp=sharing)
+
+[The US Morrill Act & the relationship between public & private institutions in different regions of the US](https://www.bostonfed.org/publications/regional-review/2001/quarter-4/the-shaping-of-higher-education-in-the-united-states-and-new-england.aspx)
 
 Response paper: Sam
+
 Reading summary: Bobby
+
 Remaking the syllabus: everybody
+
 Microflection: everybody
 
 ### Week 3: February 5, 2018
 ### From There to Here 2: Liberal Arts and Vocation Before 1950
 
 Alice Palmer, “Why Go to College?: An Address”, 1897.
+
 W.E.B. DuBois, *The Souls of Black Folk*, Chapter 3: Of Mr. Booker T. Washington and Others
+
 W.E.B. Dubois, “The Talented Tenth,” Appendix II in Penguin Souls, 189-205
+
 Anna J Cooper, “The Higher Education of Women” in  *A Voice from the South*, 1892
+
 Roger Geiger, The History of American Higher Education, 455-478
+
 J. M.McTavish speech at the Oxford Conference on extension education, Appendix IX in Albert
+
 Mansbridge, *University Tutorial Classes: A Study in the Development of Higher Education among Working Men and Women*
+
 Jonathan Rose, *Intellectual Life of the British Working Classes*, “The Welsh Miners’ Libraries”
+
 Charles Perrow, “Drinking Deep at Black Mountain College”, Southern Cultures, 2013.
+
 “The Idea Factory: An Interview with Jon Gertner”, Historically Speaking, 14:1 2013
+
 Optional: Helen Lefkowitz Horowitz, *Alma Mater: Design and Experience in the Women's Colleges from Their Nineteenth-Century Beginnings to the 1930s*
+
 Optional: Isabel Hofmeyr, “Portable Landscapes: Thomas Mofolo and John Bunyan” in *Land Culture and Identity in Settler Societies*
 
-Bobby addition:
+Bobby additions:
+
 Margaret A. Nash and Jennifer A. R. Silverman, []“An Indelible Mark": Gay Purges in Higher Education in the 1940s](https://drive.google.com/file/d/1V518GrqALg92s16xns9fAfjKi7_AePkB/view?usp=sharing)
 
 Patrick Carr, [Hollowing Out the Middle: The Rural Brain Drain and What It Means for America]((https://www.amazon.com/Hollowing-Out-Middle-Rural-America/dp/0807006149))
 
 Response paper: Laura
+<br>
 Reading summary: Keton, Christian
+<br>
 Microflection: everybody
 
 ### Week 4: February 12, 2018
